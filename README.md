@@ -6,6 +6,10 @@
   
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Besta&show_owner=true)](https://github.com/ayuriK152/Besta)
 
+설명 및 진행상황
+
+https://ayurik.notion.site/Besta-4440031bf8f541d896459f4216aa2820?pvs=4
+
 # Finished Projects
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=SAMS&show_owner=true)](https://github.com/ayuriK152/SAMS)
