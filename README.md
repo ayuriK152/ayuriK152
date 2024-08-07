@@ -39,7 +39,7 @@ https://ayurik.notion.site/Crescendor-26cfe26e82514c78b8230c34fd4f8905?pvs=4
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=SAMS&show_owner=true)](https://github.com/ayuriK152/SAMS)
 
-### 4키 기반 리듬게임 및 채보 에디터
+### 한국공대 디스코드 봇
 
 설명
 
