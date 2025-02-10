@@ -13,6 +13,16 @@
 
 # On Going Projects
 
+## Engine_Dev
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Engine_Dev&show_owner=true)](https://github.com/ayuriK152/Engine_Dev)
+
+### DirecctX12를 사용한 엔진 개발
+
+설명 및 진행상황
+
+(추가 예정)
+
 ## Besta
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Besta&show_owner=true)](https://github.com/ayuriK152/Besta)
@@ -23,6 +33,20 @@
 
 https://ayurik.notion.site/Besta-4440031bf8f541d896459f4216aa2820?pvs=4
 
+---
+
+# Finished Projects
+
+## SAMS
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=SAMS&show_owner=true)](https://github.com/ayuriK152/SAMS)
+
+### 한국공대 디스코드 봇
+
+설명
+
+(추가 예정)
+
 ## Crescendor
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Crescendor&show_owner=true)](https://github.com/ayuriK152/Crescendor)
@@ -32,17 +56,5 @@ https://ayurik.notion.site/Besta-4440031bf8f541d896459f4216aa2820?pvs=4
 설명 및 진행상황
 
 https://ayurik.notion.site/Crescendor-26cfe26e82514c78b8230c34fd4f8905?pvs=4
-
----
-
-# Finished Projects
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=SAMS&show_owner=true)](https://github.com/ayuriK152/SAMS)
-
-### 한국공대 디스코드 봇
-
-설명
-
-(추가 예정)
 
 </div>
