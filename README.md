@@ -17,7 +17,7 @@
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Engine_Dev&show_owner=true)](https://github.com/ayuriK152/Engine_Dev)
 
-### DirecctX12를 사용한 엔진 개발
+### DirectX12를 사용한 엔진 개발
 
 설명 및 진행상황
 
