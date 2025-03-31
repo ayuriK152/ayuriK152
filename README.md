@@ -21,7 +21,7 @@
 
 설명 및 진행상황
 
-(추가 예정)
+https://ayurik.notion.site/DirectX12-1c705915ec4b80a7bc4ec8dad84b8a1d?pvs=4
 
 ## Besta
 
