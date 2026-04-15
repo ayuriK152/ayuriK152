@@ -1,13 +1,15 @@
 <div align="center">
 
-<div align="left">
-  
-![ayuriK152's github stats](https://github-readme-stats.vercel.app/api?username=ayuriK152&show_icons=true&theme=cobalt)
+# 안녕하세요
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj566977)](https://solved.ac/khj566977)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuriK152&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+게임 클라이언트 프로그래머 **이원섭**입니다.
 
-</div>
+[![ayuriK152's github stats](https://github-readme-stats-fast.vercel.app/api?username=ayuriK152&show_icons=true&theme=ambient_gradient)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ayuriK152&theme=synthwave)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj566977)](https://solved.ac/khj566977) | [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayuriK152&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast) |
+| :--: | :--: |
 
 ---
 
@@ -15,7 +17,7 @@
 
 ## Engine_Dev
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Engine_Dev&show_owner=true)](https://github.com/ayuriK152/Engine_Dev)
+[![Project Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ayuriK152&repo=Engine_Dev&show_owner=true)](https://github.com/ayuriK152/Engine_Dev)
 
 ### DirectX12를 사용한 엔진 개발
 
@@ -25,7 +27,7 @@ https://ayurik.notion.site/DirectX12-1c705915ec4b80a7bc4ec8dad84b8a1d?pvs=4
 
 ## Besta
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Besta&show_owner=true)](https://github.com/ayuriK152/Besta)
+[![Project Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ayuriK152&repo=Besta&show_owner=true)](https://github.com/ayuriK152/Besta)
 
 ### 4키 기반 리듬게임 및 채보 에디터
 
@@ -39,7 +41,7 @@ https://ayurik.notion.site/Besta-4440031bf8f541d896459f4216aa2820?pvs=4
 
 ## SAMS
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=SAMS&show_owner=true)](https://github.com/ayuriK152/SAMS)
+[![Project Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ayuriK152&repo=SAMS&show_owner=true)](https://github.com/ayuriK152/SAMS)
 
 ### 한국공대 디스코드 봇
 
@@ -49,7 +51,7 @@ https://ayurik.notion.site/Besta-4440031bf8f541d896459f4216aa2820?pvs=4
 
 ## Crescendor
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayuriK152&repo=Crescendor&show_owner=true)](https://github.com/ayuriK152/Crescendor)
+[![Project Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ayuriK152&repo=Crescendor&show_owner=true)](https://github.com/ayuriK152/Crescendor)
 
 ### 멀티 플랫폼 피아노 서포터
 
